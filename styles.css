@@ -1,8 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     background: #EFEFEF;
-    margin: 0;
-    box-sizing: border-box;
     font-family: 'adobe clean';
+    margin: 0;
 }
 
 .hero {
